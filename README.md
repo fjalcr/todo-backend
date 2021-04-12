@@ -1,2 +1,2 @@
 # todo-backend
-todo backend with graphql, modgodb and nodejs (heard)
+todo backend with graphql, modgodb and nodejs
